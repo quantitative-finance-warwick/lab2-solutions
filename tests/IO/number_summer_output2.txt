@@ -1,0 +1,2 @@
+Type some numbers to add up:
+Sum of the numbers is: 6

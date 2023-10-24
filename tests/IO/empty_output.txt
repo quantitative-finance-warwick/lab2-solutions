@@ -1,0 +1,6 @@
+Type some text to analyse, press ctrl+D/ctrl+Z to stop:
+
+
+Number of characters: 0
+Number of words: 0
+Number of lines: 0

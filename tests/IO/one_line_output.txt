@@ -1,0 +1,6 @@
+Type some text to analyse, press ctrl+D/ctrl+Z to stop:
+
+
+Number of characters: 12
+Number of words: 2
+Number of lines: 1
